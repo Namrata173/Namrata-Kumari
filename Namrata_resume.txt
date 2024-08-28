@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ayesha Resume</title>
+</head>
+<body>
+    <h1>Resume</h1>
+    <header>
+        <h1>Namrata Kumari</h1>
+        <p>Email:ojhanam03@gmail.com</p>
+        <p>Phone number: 8088602969</p>
+    </header>
+
+
+    <section>
+        <h2>Objective</h2>
+        <p>To secure a challenging position in a reputable organization
+             to expand my learning, knowledge and skills and secure a
+             responsible career opportunity to fully utilize my training
+              and skills while making a significant contribution to the
+              success of the company.</p>
+       
+    </section>
+
+
+    <section>
+        <h2>Education</h2>
+            <h3>Jyoti Nivas College Autonomous, Bangalore</h3>
+            <p>2023-2025<br>Masters of Computer Application
+                <br>Pursuing
+                </p>
+   
+            <h3>Baldwin Women’s Methodist  College, Bangalore</h3>
+            <p>2019-2022<br>Bachelors of Computer Application<br>CGPA:8.81</p>
+       
+            <h3></h3>
+            <p>2017-2019<br>Kendriya Vidyalaya No.2 AirForce Station Ambala Cantt,,Haryana<br>Percentage: 65%</p>
+       
+            <h3>Kendriya Vidyalaya No.2 AirForce Station Ambala Cantt,,Haryana</h3>
+            <p>2017<br>SSLC<br>
+                Percentage: 8.8%</p>
+       
+    </section>
+
+
+    <section>
+        <h2>Skills</h2>
+        <ul>
+            <li>C</li>
+            <li>Java</li>
+            <li>Python</li>
+            <li>HTML</li>
+            <li>SQL</li>
+        </ul>
+    </section>
+
+
+    <section>
+        <h2>Projects</h2>
+       
+            <h3>Mini Project:College Display Board  </h3>
+            <p>Front end: javascript<br>Back end: MySQL</p>
+       
+            <h3>Style studio</h3>
+            <p>Front end: html,css,javascript<br>Back end: MySQL</p>
+
+  <h3>Major Project:Flower Store </h3>
+            <p>Front end: javascript<br>Back end: MySQL</p>
+       
+            <h3>Style studio</h3>
+            <p>Front end: html,css,javascript<br>Back end: MySQL</p>
+
+       
+    </section>
+
+
+    <section>
+        <h2>Languages Known</h2>
+        <ul>
+            <li>English</li>
+            <li>Hindi</li>
+        </ul>
+    </section>
+    <section>
+        <h2>Hobbies</h2>
+        <ul>
+            <li>Reading</li>
+            <li>drawing</li>
+            <li>playing badminton</li>
+        </ul>
+    </section>
+
+
+    <section>
+        <h2>Certification</h2>
+        <ul>
+            <li>Course:- Digital Marketing</li>
+        </ul>
+    </section>
+
+
+    <footer>
+        <h2>Declaration</h2>
+        <p>I hereby declare that the above furnished information is true to the best of my knowledge.</p>
+    </footer>
+</body>
+</html>
